@@ -1,0 +1,7 @@
+<div id="<%= dom_id order_upload %>">
+  <p>
+    <strong>Csv file:</strong>
+    <%= link_to order_upload.csv_file.filename, order_upload.csv_file if order_upload.csv_file.attached? %>
+  </p>
+
+</div>

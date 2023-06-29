@@ -1,6 +1,6 @@
 # Rails Code Challenge
 
-## Challenge
+## YCombinator startup Challenge
 
 Your company has just acquired a new company and needs to import their data. Unfortunately, the acquired company has never stored their data in a database and instead uses a plain text file. Create a web-based application that fulfills the following requirements:
 
